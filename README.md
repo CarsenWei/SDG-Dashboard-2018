@@ -18,6 +18,6 @@ This document helps you understand the project in 8 slides.
 - Data and methodology used
 
 ### Data and methedology
-- The data is [available at my personal Googl Drive](https://drive.google.com/open?id=1bgNLPrsJekNlrvhVYBKp9yBG-EejxIAw)
+- The data is [available at my personal Google Drive](https://drive.google.com/open?id=1bgNLPrsJekNlrvhVYBKp9yBG-EejxIAw)
 - `Data.zip` is the input for `Wrangling and Prediction.ipynb` and `Dashboard Development.twb`
 - `Wrangling and Prediction Results.zip` is the output of `Wrangling and Prediction.ipynb`
