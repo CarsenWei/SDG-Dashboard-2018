@@ -4,7 +4,7 @@ Improving the 2018 UN SDG Dashboard to reduce visual biases and provide more inf
 ### Presentation.pdf
 This document helps you understand the project in 8 slides.
 1. Problems with the [2018 SDG Dashboard](https://dashboards.sdgindex.org/#/) were identified: visual biases and lack of details
-2. [The improved dashboard](https://10ay.online.tableau.com/t/carsenwei/views/ImprovedUNSDGDashboard/Dashboard1?iframeSizedToWindow=true&:embed=y&:showAppBanner=false&:display_count=no&:showVizHome=no) answers the same questions as the 2018 dashboard but in a more effective manner
+2. The improved dashboard answers the same questions as the 2018 dashboard but in a more effective manner
     - How is the world performing overall?
     - What is the past and predicted performance for a specific country?
       - Performance on SDG goals
